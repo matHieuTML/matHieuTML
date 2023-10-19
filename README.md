@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://i.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.webp)
 
-<!--
-**matHieuTML/matHieuTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salut, et Bienvenue! 👋
 
-Here are some ideas to get you started:
+Je suis un étudiant en développement web, passionné par la magie du code! 👨‍💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Actuellement, je me plonge dans les mystères de Python, Vue.js, Node.js, et Symfony!
+- 🚀 Mon carburant de prédilection : JavaScript, PHP, et Python.
+- 🌟 Mon objectif : Explorer les confins de la créativité web tout en jonglant avec la performance 🤹‍♂️
+- 📚 Entrain de compiler une liste de projets côté serveur et côté client.
+- 🎵 Quand je ne code pas, j'écoute de la musique, je regarde des films ou je fais du sport.
+
+Rejoignez-moi dans cette aventure passionnante où nous réinventons le web à chaque instant! 😄
