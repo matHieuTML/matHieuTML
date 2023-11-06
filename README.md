@@ -7,7 +7,7 @@ Je suis un étudiant en développement web, passionné par la magie du code! �
 - 💡 Actuellement, je me plonge dans les mystères de Python, Node.js, et Symfony!
 - 🌟 Mon objectif : Explorer les confins de la créativité web
 - 📚 Entrain de compiler une liste de projets côté serveur et côté client.
-- 🎵 Quand je ne code pas, j'écoute de la musique, je regarde des films ou je fais du sport.
+- 🎵 Quand je ne code pas, j'écoute de la musique, je regarde des films ou je fais du sport tous les jours.
 
 Rejoignez-moi dans cette aventure passionnante où nous réinventons le web à chaque instant! 😄
 
