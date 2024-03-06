@@ -1,5 +1,3 @@
-![](https://i.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.webp)
-
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R3dGt5eXltOHdoYWJ1b2g5c3VlM3g1Mjdjd2V0dTBjNmE2ejkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 
 # Salut, je suis Mathieu Gaucher! 👋
